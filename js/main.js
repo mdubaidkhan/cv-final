@@ -1,7 +1,7 @@
 $(document).ready(function () {
 
     document. getElementById("myButton"). onclick = function () {
-  location. href = "https://drive.google.com/file/d/1-0Q0RkFg4T5m3-0UoOnrzoF0DBENo9x7/view?usp=sharing";
+  location. href = "https://drive.google.com/file/d/1_IvWzxzMlS0CCmfP0cBmuiU6_n7HMsKD/view";
   }
   
   
